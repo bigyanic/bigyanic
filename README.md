@@ -50,7 +50,7 @@
 ![](https://activity-graph.herokuapp.com/graph?username=bigyanic&custom_title=Saugat%27s%20Contribution%20Graph&theme=react-dark)
 
 
-
+<!--START_SECTION:activity-->
 
 If you wish to contact me please shoot a mail at bigyanic@codekavya.com .
 
