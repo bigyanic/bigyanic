@@ -53,6 +53,7 @@
 
 <!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
 
 
 If you wish to contact me please shoot a mail at bigyan@codekavya.com .
