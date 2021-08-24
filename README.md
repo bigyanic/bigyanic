@@ -47,7 +47,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bigyanic&theme=algolia" alt="bigyanic" /></p>
 <br/>
 
-![](https://activity-graph.herokuapp.com/graph?username=bigyanic&custom_title=Saugat%27s%20Contribution%20Graph&theme=react-dark)
+![](https://activity-graph.herokuapp.com/graph?username=bigyanic&custom_title=Bigyan's%27s%20Contribution%20Graph&theme=react-dark)
 
 
 <!--START_SECTION:activity-->
