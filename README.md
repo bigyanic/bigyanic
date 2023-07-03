@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/bigyanic"><img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=560&height=45&lines=Co-Founder+at+Codekavya.;Administrative+and+Marketing+Head+at+Codekavya.;Student+of+Computer+Engineering."></a>
+  <a href="https://github.com/bigyanic"><img src="https://readme-typing-svg.herokuapp.com/?size=21&center=true&vCenter=true&width=560&height=45&lines=Co-Founder+at+Codekavya.;CEO+at+Codekavya.;Computer+Engineer."></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigyanic&label=Profile%20views&color=0e75b6&style=flat" alt="Bigyanic" /> </p>
