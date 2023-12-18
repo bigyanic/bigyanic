@@ -13,7 +13,7 @@
 <a href="https://discord.com/channels/@me/673887525479383080">
     <img alt="chat" title="Talk to me on Discord" src="https://dcbadge.vercel.app/api/shield/673887525479383080"/></a></p>
 
-- 🌱 I’m currently learning **React JS** and **Arduino**
+- 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me **tbigyan9@gmail.com**  ||  **bigyan@codekavya.com**
 
