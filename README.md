@@ -13,10 +13,9 @@
 <a href="https://discord.com/channels/@me/673887525479383080">
     <img alt="chat" title="Talk to me on Discord" src="https://dcbadge.vercel.app/api/shield/673887525479383080"/></a></p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **tbigyan9@gmail.com**  ||  **bigyan@codekavya.com**
-
+- 📫 How to reach me **tbigyan9@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bigyanic" target="blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Bigyanic" height="30" width="40" /></a>
